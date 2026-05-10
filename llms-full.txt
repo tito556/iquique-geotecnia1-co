@@ -1,0 +1,51 @@
+# Geotecnia1 — Iquique
+
+> Geotechnical engineering services in Iquique, Chile.
+
+## Services
+- [Aislacion Sismica](https://iquique.geotecnia1.co/aislacion-sismica/)
+- [Anclajes](https://iquique.geotecnia1.co/anclajes/)
+- [Calicatas](https://iquique.geotecnia1.co/calicatas/)
+- [Cbr Vial](https://iquique.geotecnia1.co/cbr-vial/)
+- [Cimentaciones](https://iquique.geotecnia1.co/cimentaciones/)
+- [Columnas Grava](https://iquique.geotecnia1.co/columnas-grava/)
+- [Densidad Cono Arena](https://iquique.geotecnia1.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://iquique.geotecnia1.co/ensayo-cpt/)
+- [Ensayos Proctor](https://iquique.geotecnia1.co/ensayos-proctor/)
+- [Estabilidad Taludes](https://iquique.geotecnia1.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://iquique.geotecnia1.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://iquique.geotecnia1.co/excavaciones-subterraneo/)
+- [Exploracion](https://iquique.geotecnia1.co/exploracion/)
+- [Geotecnia Vial](https://iquique.geotecnia1.co/geotecnia-vial/)
+- [Granulometria](https://iquique.geotecnia1.co/granulometria/)
+- [Inyecciones](https://iquique.geotecnia1.co/inyecciones/)
+- [Laboratorio In Situ](https://iquique.geotecnia1.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://iquique.geotecnia1.co/laboratorio-lab/)
+- [Licuefaccion](https://iquique.geotecnia1.co/licuefaccion/)
+- [Limites Atterberg](https://iquique.geotecnia1.co/limites-atterberg/)
+- [Losas Fundacion](https://iquique.geotecnia1.co/losas-fundacion/)
+- [Masw](https://iquique.geotecnia1.co/masw/)
+- [Mejoramiento](https://iquique.geotecnia1.co/mejoramiento/)
+- [Microzonificacion Sismica](https://iquique.geotecnia1.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://iquique.geotecnia1.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://iquique.geotecnia1.co/muros-contencion/)
+- [Pavimento Flexible](https://iquique.geotecnia1.co/pavimento-flexible/)
+- [Pavimento Rigido](https://iquique.geotecnia1.co/pavimento-rigido/)
+- [Permeabilidad In Situ](https://iquique.geotecnia1.co/permeabilidad-in-situ/)
+- [Pilotes](https://iquique.geotecnia1.co/pilotes/)
+- [Refraccion Sismica](https://iquique.geotecnia1.co/refraccion-sismica/)
+- [Resistividad](https://iquique.geotecnia1.co/resistividad/)
+- [Sismica](https://iquique.geotecnia1.co/sismica/)
+- [Sondajes Spt](https://iquique.geotecnia1.co/sondajes-spt/)
+- [Taludes](https://iquique.geotecnia1.co/taludes/)
+- [Triaxial](https://iquique.geotecnia1.co/triaxial/)
+- [Tuneles Suelo Blando](https://iquique.geotecnia1.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://iquique.geotecnia1.co/vibrocompactacion/)
+- [Zapatas](https://iquique.geotecnia1.co/zapatas/)
+
+## Contact
+- Website: https://iquique.geotecnia1.co/
+
+## About
+This site provides geotechnical engineering services in Iquique, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
